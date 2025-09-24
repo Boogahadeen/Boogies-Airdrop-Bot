@@ -1,5 +1,5 @@
-<img width="1024" height="1536" alt="3339d0db-0ce6-4737-b46a-ea5c90f54bb1" src="https://github.com/user-attachments/assets/3713485d-fb53-4b7b-aa87-b2e6c4c611be" />
-# Boogies Airdrop Bot
+<img width="768" height="512" alt="3339d0db-0ce6-4737-b46a-ea5c90f54bb1" src="https://github.com/user-attachments/assets/3713485d-fb53-4b7b-aa87-b2e6c4c611be" />
+
 
 A Discord bot that posts scheduled / manual DayZ airdrop announcement embeds.  
 Originally built to automate event announcements and (optionally) inject custom spawner entries into a DayZ server's `cfggameplay.json`. This repo contains the Discord-only version (no Nitrado logic) for safe sharing.
