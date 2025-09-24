@@ -1,4 +1,4 @@
-<img width="768" height="512" alt="3339d0db-0ce6-4737-b46a-ea5c90f54bb1" src="https://github.com/user-attachments/assets/3713485d-fb53-4b7b-aa87-b2e6c4c611be" />
+<img width="512" height="512" alt="3339d0db-0ce6-4737-b46a-ea5c90f54bb1" src="https://github.com/user-attachments/assets/3713485d-fb53-4b7b-aa87-b2e6c4c611be" />
 
 
 A Discord bot that posts scheduled / manual DayZ airdrop announcement embeds.  
