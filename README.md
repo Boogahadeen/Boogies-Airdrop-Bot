@@ -2,11 +2,10 @@
 
 
 A Discord bot that posts scheduled / manual DayZ airdrop announcement embeds.  
-Originally built to automate event announcements and (optionally) inject custom spawner entries into a DayZ server's `cfggameplay.json`. This repo contains the Discord-only version (no Nitrado logic) for safe sharing.
 
 ## Features
-- Four preconfigured airdrop embeds (Prison Island, VMC, NEAF, NWAF).
-- Commands: `!airdrop1`, `!airdrop2`, `!airdrop3`, `!airdrop4` — deletes the invoking command message and posts the embed to a designated channel.
+- Eight preconfigured airdrop embeds you can change the names to whatever you want(Prison Island, VMC, NEAF, NWAF, etc).
+- Commands: `!airdrop1`, `!airdrop2`, `!airdrop3`, `!airdrop4`, `!airdrop5`, `!airdrop6`, `!airdrop7`, `!airdrop8` deletes the invoking command message and posts the embed to a designated channel.
 - Silent operation (no confirmation messages) for clean chat.
 - Modular embed definitions so you can add more events easily.
 
